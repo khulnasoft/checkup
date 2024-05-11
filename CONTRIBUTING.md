@@ -1,6 +1,6 @@
 # How to Contribute
 
-This Sourcegraph project is [MIT licensed](LICENSE) and accepts
+This Khulnasoft project is [MIT licensed](LICENSE) and accepts
 contributions via GitHub pull requests. This document outlines some of
 the conventions on development workflow, commit message formatting,
 contact points and other resources to make it easier to get your
@@ -67,5 +67,5 @@ The format can be described more formally as follows:
 
 The first line is the subject and should be no longer than 70 characters, the
 second line is always blank, and other lines should be wrapped at 80 characters.
-This allows the message to be easier to read on Sourcegraph and GitHub as well
+This allows the message to be easier to read on Khulnasoft and GitHub as well
 as in various git tools.
